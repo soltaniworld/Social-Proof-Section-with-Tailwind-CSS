@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
     /* need this line to set size of stars width and height equally */
     --star-size: 16px; 
