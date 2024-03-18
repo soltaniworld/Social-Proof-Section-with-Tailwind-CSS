@@ -10,7 +10,7 @@
 
 /* set size of stars */
 .ratings-stars img{
-    margin-right:4px ;
+    margin-right:5px ;
     width: var(--star-size);
     height: var(--star-size);
 }
